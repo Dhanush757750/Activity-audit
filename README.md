@@ -80,8 +80,7 @@ To identify storage assets in **AWS S3**, identify possible vulnerabilities and 
 
 Versioning helps recover previous versions of objects after accidental deletion or modification.
 
-<img width="1917" height="925" alt="Screenshot 2026-08-25 085210" src="https://github.com/user-attachments/assets/12df91b5-23ea-49b4-90a2-4e29442cdfa8" />
-
+<img width="1536" height="960" alt="Screenshot 2026-08-25 104633" src="https://github.com/user-attachments/assets/0654c1ff-f5db-4683-be2e-d67e67f94929" />
 
 ---
 
@@ -101,8 +100,7 @@ Versioning helps recover previous versions of objects after accidental deletion 
 
 Encryption protects stored data from unauthorized disclosure.
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-25 094959" src="https://github.com/user-attachments/assets/d855d3bb-6358-45af-b674-a0987fb2c2f2" />
-
+<img width="1536" height="960" alt="Screenshot 2026-08-25 104731" src="https://github.com/user-attachments/assets/18eeb0a4-b810-4d13-9e0b-ade6de998471" />
 
 ---
 
@@ -119,7 +117,7 @@ Encryption protects stored data from unauthorized disclosure.
 
 > **Note:** A missing bucket policy is not automatically a vulnerability. Access may be controlled through IAM and other AWS security mechanisms.
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-25 091849" src="https://github.com/user-attachments/assets/31184c51-37de-4cda-8ab6-0fb7744ff5d8" />
+<img width="1524" height="958" alt="Screenshot 2026-08-25 104832" src="https://github.com/user-attachments/assets/5d8f0ce2-2679-4924-a8d8-5832fc29bf7b" />
 
 ---
 
@@ -138,8 +136,7 @@ This means:
 - Objects are owned by the bucket owner.
 - Access is controlled using policies.
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-25 091955" src="https://github.com/user-attachments/assets/c8be1dc1-1350-4419-a492-cadd1b4230ce" />
-
+<img width="1535" height="960" alt="Screenshot 2026-08-25 104914" src="https://github.com/user-attachments/assets/5a979c97-ea99-46b0-8273-a9617964783a" />
 
 ---
 ## Step 8: Check Server Access Logging
@@ -154,7 +151,7 @@ This means:
 
 Logging helps investigate suspicious or unauthorized access to the bucket.
 
-<img width="1919" height="870" alt="Screenshot 2026-08-21 141519" src="https://github.com/user-attachments/assets/c3498ef8-4176-428b-9e10-046f8f7c68e6" />
+<img width="1536" height="960" alt="Screenshot 2026-08-25 105006" src="https://github.com/user-attachments/assets/aa7022b5-08da-4f3c-b92e-e965a1ee1d2d" />
 
 ---
 
@@ -174,11 +171,9 @@ This means:
 - Objects are owned by the bucket owner.
 - Access is controlled using policies.
 
-<img width="1919" height="847" alt="Screenshot 2026-08-21 141449" src="https://github.com/user-attachments/assets/49389bb7-394c-4828-968e-b56833098f5b" />
-
+<img width="1536" height="960" alt="Screenshot 2026-08-25 105042" src="https://github.com/user-attachments/assets/f0286acb-931f-42a1-9fc9-dae10141f4cb" />
 
 ---
-
 
 
 ---
